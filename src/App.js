@@ -78,6 +78,11 @@ function App() {
         recovered={recovered}
       />
       <GoogleCharts currentCountry={currentCountry} />
+      <div className="footer">
+        <a href="https://github.com/Sagar9980/Corona-Tracker">Github</a>/
+        <a href="https://linktr.ee/sagar_dhami">Contacts</a>/
+        <a href="">© Copyright</a>
+      </div>
     </div>
   );
 }

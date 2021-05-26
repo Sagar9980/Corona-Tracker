@@ -68,6 +68,12 @@ p {
 .recovered-cases {
   color: #ff9900;
 }
+.footer {
+  padding: 1em;
+}
+.footer a {
+  padding: 0em 0.5em;
+}
 @media (prefers-reduced-motion: no-preference) {
   .corona-logo {
     width: 35px;
